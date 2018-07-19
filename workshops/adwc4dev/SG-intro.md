@@ -4,26 +4,15 @@ Welcome to the Autonomous Data Warehouse Cloud Service for Developers workshop. 
 
 ### **STEP 1**:  Acquire an Oracle Cloud Trial or Workshop Account
 
-- Please click on the URL to create your Free Account cloud.oracle.com/tryit, and complete all the required steps to get your free Oracle Cloud Trial Account. When you complete the registration process you'll receive a $300 credit that will enable you to complete the lab for free. Additionally, you'll have 1000s of hours left over to continue to explore the Oracle Cloud.
-  - Soon after requesting your trial you will receive the following email. You will not be able to start Lab 100 until you have received it.
+Please click on the [Free Oracle Cloud Promotion](https://myservices.us.oraclecloud.com/mycloud/signup?language=en&sourceType=:ex:tb:::RC_NAMK180711P00050:DBCS_OCI_HOL&SC=:ex:tb:::RC_NAMK180711P00050:DBCS_OCI_HOL&pcode=NAMK180711P00050) link to complete all the required steps to get your free Oracle Cloud Trial Account. When you complete the registration process you'll receive a $300 credit and up to 3500 hours of free Oracle Cloud usage. You'll have 1000s of hours left over after the labs to continue to explore the Oracle Cloud.  Soon after requesting your trial you will receive the following email. You will not be able to start Lab 100 until you have received it.
 
-    ![](images/trial.png) 
-
-### **STEP 2**:  Navigate to Terraform Setup Steps for Self Guided Labs
-
-- Before you can proceed with the labs you must run setup steps.  There are two options - manual and Terraform.  The Terraform setup is recommended.  These steps will take approximately 60-90 minutes.  
-
-![](images/WorkshopMenu.png)
-
-  ![](images/setup.png) 
-
-### **STEP 3**:  Navigate to Lab 100
+### **STEP 2**:  Navigate to Lab 100
 
 - Once the setup is complete you can move on to lab 100 by clicking on the Menu Icon in the upper left corner of the browser window. You're now ready to continue with Lab 100.
 
 ![](images/WorkshopMenu.png)
 
-![](images/lab100.png)  
+![](images/l100.png)  
 
 
 
