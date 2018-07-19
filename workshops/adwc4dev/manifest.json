@@ -45,6 +45,13 @@
                 "title": "Lab 400: Create Data Visualizations",
                 "description": "Create visualizations to better understand the factors that affect good credit",
                 "labels": {"version": "Self-Guided"}
+            },
+            {
+                "number": "500",
+                "filename": "DownloadLinks.md",
+                "title": "Download Links",
+                "description": "You can download files for this workshop here",
+                "labels": {"version": "Self-Guided"}
             }
         ]
     }
