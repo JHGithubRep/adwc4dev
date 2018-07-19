@@ -1,5 +1,7 @@
 # Download Links:
 
+**Right click to Download**
+
 [Lab 300: credit_scoring_100k.csv](/adwc4dev/workshops/adwc4dev/install/credit_scoring_100k.csv)
 
 [Lab 300: Credit_Score_Predictions](/adwc4dev/workshops/adwc4dev/install/Credit_Score_Predictions.json)
