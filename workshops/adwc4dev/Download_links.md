@@ -1,3 +1,3 @@
 # Download Links:
 
-<a href="/install/credit_scoring_100k.csv" download>Download credit_scoring_100k.csv</a>
+[credit_scoring_100k.csv](/install/credit_scoring_100k.csv)
