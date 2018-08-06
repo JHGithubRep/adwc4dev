@@ -36,14 +36,14 @@
                 "number": "300",
                 "filename": "L300.md",
                 "title": "Lab 300: Machine Learning",
-                "description": "Create a machine learning notebook and model to predict good credit",
+                "description": "Work with an Apache Zepplin notebook and create a Machine Learning model to predict customer good credit",
                 "labels": {"version": "Self-Guided"}
             },
             {
                 "number": "400",
                 "filename": "L400.md",
                 "title": "Lab 400: Create Data Visualizations",
-                "description": "Create visualizations to better understand the factors that affect good credit",
+                "description": "Create data visualizations to review sales performance and better understand the factors that affect good credit.",
                 "labels": {"version": "Self-Guided"}
             },
             {
