@@ -21,7 +21,7 @@ Lab 100 will introduce you to ADWC and show you how to create a Cloud Database. 
 ### **STEP 1**:  Acquire an Oracle Cloud Trial or Workshop Account
 
 -   Bookmark this page for future reference.
--   Please click on the URL to create your Free Account cloud.oracle.com/tryit, and complete all the required steps to get your free Oracle Cloud Trial Account. When you complete the registration process you'll receive a $300 credit that will enable you to complete the lab for free. Additionally, you'll have 1000s of hours left over to continue to explore the Oracle Cloud.
+-   Please click on the URL to create your [Free Account](https://myservices.us.oraclecloud.com/mycloud/signup?language=en&sourceType=:ex:tb:::RC_NAMK180723P00029:RedshiftADWC_HOL&SC=:ex:tb:::RC_NAMK180723P00029:RedshiftADWC_HOL&pcode=NAMK180723P00029), and complete all the required steps to get your free Oracle Cloud Trial Account. When you complete the registration process you'll receive a $300 credit that will enable you to complete the lab for free. Additionally, you'll have 1000s of hours left over to continue to explore the Oracle Cloud.
     -   Soon after requesting your trial you will receive the following email. You may begin working on Lab 100 before you receive this email, but you will not be able to start Lab 200 until you have received it.
     ![](images/001.png)
 
